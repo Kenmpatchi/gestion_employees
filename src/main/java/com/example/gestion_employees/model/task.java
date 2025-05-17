@@ -1,4 +1,4 @@
-package com.example.courses_management.model;
+package com.example.gestion_employees.model;
 
 public class task {
     private String Name;

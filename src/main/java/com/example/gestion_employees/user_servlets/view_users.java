@@ -1,7 +1,7 @@
-package com.example.courses_management.user_servlets;
+package com.example.gestion_employees.user_servlets;
 
-import com.example.courses_management.controllers.Cusers;
-import com.example.courses_management.model.user;
+import com.example.gestion_employees.controllers.Cusers;
+import com.example.gestion_employees.model.user;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;

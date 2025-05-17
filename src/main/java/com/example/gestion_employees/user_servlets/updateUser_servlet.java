@@ -1,16 +1,14 @@
-package com.example.courses_management.user_servlets;
+package com.example.gestion_employees.user_servlets;
 
-import com.example.courses_management.controllers.Cusers;
-import com.example.courses_management.model.user;
+import com.example.gestion_employees.controllers.Cusers;
+import com.example.gestion_employees.model.user;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 
-import javax.swing.*;
 import java.io.IOException;
-import java.io.PrintWriter;
 import java.sql.SQLException;
 
 @WebServlet(name="updateUser_servlet",value="/updateUser")

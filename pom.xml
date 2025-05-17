@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>courses_management</artifactId>
+    <artifactId>gestion-employees</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>courses_management</name>
+    <name>gestion-employees</name>
     <packaging>war</packaging>
 
     <properties>

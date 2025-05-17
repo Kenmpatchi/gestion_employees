@@ -1,7 +1,7 @@
-package com.example.courses_management.task_servlets;
+package com.example.gestion_employees.task_servlets;
 
-import com.example.courses_management.controllers.Ctasks;
-import com.example.courses_management.model.task;
+import com.example.gestion_employees.controllers.Ctasks;
+import com.example.gestion_employees.model.task;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;

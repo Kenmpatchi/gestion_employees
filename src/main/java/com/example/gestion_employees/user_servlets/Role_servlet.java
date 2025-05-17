@@ -1,6 +1,6 @@
-package com.example.courses_management.user_servlets;
+package com.example.gestion_employees.user_servlets;
 
-import com.example.courses_management.controllers.Cusers;
+import com.example.gestion_employees.controllers.Cusers;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;

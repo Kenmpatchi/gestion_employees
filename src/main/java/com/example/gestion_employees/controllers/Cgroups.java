@@ -1,7 +1,7 @@
-package com.example.courses_management.controllers;
+package com.example.gestion_employees.controllers;
 
-import com.example.courses_management.connection.DBconnection;
-import com.example.courses_management.model.group;
+import com.example.gestion_employees.connection.DBconnection;
+import com.example.gestion_employees.model.group;
 
 import java.sql.Connection;
 import java.sql.ResultSet;

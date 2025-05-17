@@ -1,7 +1,7 @@
-package com.example.courses_management.group_servlet;
+package com.example.gestion_employees.group_servlet;
 
-import com.example.courses_management.controllers.Cgroups;
-import com.example.courses_management.model.group;
+import com.example.gestion_employees.controllers.Cgroups;
+import com.example.gestion_employees.model.group;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;

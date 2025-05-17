@@ -1,4 +1,4 @@
-package com.example.courses_management.model;
+package com.example.gestion_employees.model;
 
 public class group {
     private int group_id;

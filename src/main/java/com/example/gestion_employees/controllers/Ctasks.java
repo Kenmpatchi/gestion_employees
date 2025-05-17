@@ -1,7 +1,7 @@
-package com.example.courses_management.controllers;
+package com.example.gestion_employees.controllers;
 
-import com.example.courses_management.connection.DBconnection;
-import com.example.courses_management.model.task;
+import com.example.gestion_employees.connection.DBconnection;
+import com.example.gestion_employees.model.task;
 
 import java.sql.*;
 import java.util.ArrayList;

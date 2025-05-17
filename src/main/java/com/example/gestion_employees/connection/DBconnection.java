@@ -1,4 +1,4 @@
-package com.example.courses_management.connection;
+package com.example.gestion_employees.connection;
 
 import java.sql.*;
 
